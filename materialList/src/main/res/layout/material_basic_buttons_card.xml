@@ -31,9 +31,13 @@
                           style="@style/Material_Action"
                           tools:text="Action 1"/>
 
-                <TextView android:id="@+id/right_text_button"
+                <TextView android:id="@+id/center_text_button"
                           style="@style/Material_Action"
                           tools:text="Action 2"/>
+
+                <TextView android:id="@+id/right_text_button"
+                          style="@style/Material_Action"
+                          tools:text="Action 3"/>
             </LinearLayout>
 
         </LinearLayout>
